@@ -1,0 +1,17 @@
+{
+  "model": "RandomForestRegressor(n_estimators=200, max_depth=12)",
+  "train_rows": 9600,
+  "test_rows": 1440,
+  "test_weeks": 12,
+  "mae": 11.85,
+  "rmse": 20.37,
+  "mape_pct": 17.57,
+  "r2": 0.911,
+  "total_inventory_value_inr": 14360604.84,
+  "skus_at_stockout_risk": 50,
+  "abc_counts": {
+    "A": 54,
+    "B": 36,
+    "C": 30
+  }
+}
